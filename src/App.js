@@ -103,7 +103,7 @@ class App extends Component {
 
         <div className="instructions" >
 
-          <img src="../Images/instructions.png" alt="instructions"/>
+          <img src="./Images/instructions.png" alt="instructions"/>
           <div className="body">
             <p>Click on an image to earn points, but don't click on any more than once!</p>
           </div>

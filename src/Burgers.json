@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "../Images/louise.jpg",
+      "image": "./Images/louise.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "../Images/bob.jpg",
+      "image": "./Images/bob.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "../Images/calvin.jpg",
+      "image": "./Images/calvin.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "../Images/gene.jpg",
+      "image": "./Images/gene.jpg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "../Images/jimmy.jpg",
+      "image": "./Images/jimmy.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "../Images/jimmyjr.jpg",
+      "image": "./Images/jimmyjr.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "../Images/jocelyn.jpg",
+      "image": "./Images/jocelyn.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "../Images/linda.jpg",
+      "image": "./Images/linda.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "../Images/marshmallow.jpg",
+      "image": "./Images/marshmallow.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "../Images/ollieandy.jpg",
+      "image": "./Images/ollieandy.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "../Images/tammy.jpg",
+      "image": "./Images/tammy.jpg",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "../Images/tina.jpg",
+      "image": "./Images/tina.jpg",
       "clicked": false
     }
   ]
