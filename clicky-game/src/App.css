@@ -1,0 +1,128 @@
+body{
+  background-color:#eaea28;
+}
+.app{
+  padding-bottom:40px;
+}
+.instructions{
+  width:50%;
+  height:120px;
+  text-align:center;
+  margin:0 auto;
+  left:25%;
+  position: fixed;
+  bottom:0px;
+  background-color: #2ac5e8;
+  border-radius: 20px;
+  border: solid #000 2px;
+}
+.instructions img{
+  width:300px;
+  text-align:center;
+  margin-bottom:10px;
+}
+.instructions:hover{
+  padding-bottom:200px;
+  -webkit-transition: padding .5s;
+  -moz-transition: padding .5s;
+  transition: padding .5s;
+}
+.body p{
+  font-size:18px;
+  padding:15px;
+}
+.itemRow{
+  margin:0 auto;
+  margin-top:20px;
+  margin-bottom:100px;
+}
+.character{
+  padding:10px 20px;
+  border:none;
+
+}
+.card{
+  border:none;
+  background-color:#fff0;
+}
+.card > .img-container > img{
+  width:100%;
+  height:auto;
+  border-radius:50%;
+  border:solid red 10px;
+  
+    box-shadow: 6px 10px 2px 1px rgba(27, 26, 51, 0.26);
+}
+@media only screen and (max-width: 1000px){
+  .instructions{
+    height:170px;
+  }
+  .instructions:hover{
+    padding-bottom:250px;
+   
+  }
+}
+@media only screen and (max-width: 768px){
+  .itemRow{
+    
+    margin-bottom:200px;
+  }
+  .instructions{
+    
+    width:80%;
+    left:10%;
+  
+  }
+}
+@media only screen and (max-width: 500px){
+  .itemRow{
+    
+    margin-bottom:150px;
+  }
+  .instructions:hover{
+    padding-bottom:270px;
+    
+  }
+  .instructions{
+    
+    width:80%;
+    left:10%;
+  
+  }
+}
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
